@@ -6,14 +6,12 @@
 
   2. Upload the CSV file to the website.
 
-  3. Use the source node dropdown menu to select a node. This will update the visualization to show the mutation network for that node, with all other nodes.
+  3. Use the source node dropdown menu to select a node. This will update the visualization to show the mutation network for that specific node. If you want to see the mutations of all nodes, select "All Nodes" from the dropdown menu.
 
-  4. Each node in the mutation network will be connected to the selected node with an edge, except for itself.
+  4. When hovering over a node, a tooltip will appear displaying information about the node and the dictionary of all mutations compared to this node.
 
-  5. Hovering over a node will display a tooltip that shows information about the node and the mutations between the nodes.
+  5. Hovering over an edge will also display the corresponding sequence index between the nodes.
 
-  6. Hovering over an edge will also display the mutations between the nodes.
 
-  7. Use the target node dropdown menu to select a target node. This will highlight both the selected source node and the target node, and show the edge between the two nodes with a tooltip.
 
 
