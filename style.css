@@ -6,9 +6,9 @@
   position: relative;
   height: 120vh;
   overflow: visible;
-  max-width: 65%;
+  /* max-width: 65%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-50%); */
  
 }
 
